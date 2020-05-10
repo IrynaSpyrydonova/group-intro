@@ -1,21 +1,20 @@
-# Hello People! Here we are:
+# Hello People! 
 
-* **coach** Joel; [Joel](coach.md)
+Welcome to the **ZOOM** group 😉
 
-* student one :Yauheniya;
- [Yauheniya](Yauheniya.md)
+Here we are:
 
-* student two:Yulia;
-[Yulia](Yulia.md)
+* **coach** [Joel](coach.md)
 
-* student three: Eltayeb;
-[Eltayeb](Eltayeb.md)
+* student [Yauheniya](Yauheniya.md)
 
-* student four: Yildiray;
-[Yildiray](Yildiray.md)
+* student [Yulia](Yulia.md)
 
-* student five: Iryna;
-[Iryna](Iryna.md)
+* student [Eltayeb](Eltayeb.md)
+
+* student [Yildiray](Yildiray.md)
+
+* student [Iryna](Iryna.md)
 
 -----
 
