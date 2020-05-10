@@ -1,8 +1,9 @@
 # Hello People! Here we are:
 
-* **coach** Joel;
+* **coach** Joel; [Joel](coach.md)
 
-* student one :Yauheniya; [Yauheniya](coach.md)
+* student one :Yauheniya;
+ [Yauheniya](Yauheniya.md)
 
 * student two:Yulia;
 [Yulia](Yulia.md)
@@ -18,4 +19,4 @@
 
 -----
 
-[Here our class link](https://github.com/HackYourFutureBelgium/class-9-10)
+Nice to meet you all 😀
